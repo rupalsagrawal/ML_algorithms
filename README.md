@@ -1,2 +1,2 @@
 # ML_algorithms
-Demonstration of various ML algorithms in tensorflow.
+Demonstration of various ML algorithms using tensorflow.
